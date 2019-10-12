@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ichequieve.hurenundsoehne.com/sitemap.xml
